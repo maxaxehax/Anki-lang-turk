@@ -1,0 +1,3786 @@
+{
+    "__type__": "Deck", 
+    "children": [
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "d8ea4a30-5aab-11e7-b6af-0024d7a9bf9c", 
+            "deck_config_uuid": "d8ea2322-5aab-11e7-bdbf-0024d7a9bf9c", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "mid": "1496671669681", 
+            "name": "vocab", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "öğrenci", 
+                        "", 
+                        "university student", 
+                        "present", 
+                        "", 
+                        "Student", 
+                        "Nomenpersonalform, Präsens", 
+                        "", 
+                        "öğrenciyim", 
+                        "I am a student.", 
+                        "Ich bin Student.", 
+                        "öğrencisin", 
+                        "You are a student.", 
+                        "Du bist Student.", 
+                        "öğrenci", 
+                        "He/she is a student.", 
+                        "Er/sie ist Student/in.", 
+                        "öğrenciyiz", 
+                        "We are students.", 
+                        "Wir sind Studenten.", 
+                        "öğrencisiniz", 
+                        "You (all) are students.<div>You (formal) are a student.</div>", 
+                        "Ihr seid Studenten.<div>Sie sind Student/in.</div>", 
+                        "öğrenci(ler)", 
+                        "They are students.", 
+                        "Sie sind Studenten."
+                    ], 
+                    "flags": 0, 
+                    "guid": "e_s*xt,qj#", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "İyi günler!", 
+                        "", 
+                        "Good day!", 
+                        "", 
+                        "(only during daylight; both greeting/goodbye)", 
+                        "Guten Tag!", 
+                        "", 
+                        "(nur während Tageslichts; sowohl Gruß als auch Abschied)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Iit>Visz=l", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "common-phrases", 
+                        "greetings"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Merhaba.", 
+                        "", 
+                        "Hello.", 
+                        "", 
+                        "", 
+                        "Hallo.", 
+                        "", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "e&T6<Cz].R", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "common-phrases", 
+                        "greetings"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "İyi akşamlar!", 
+                        "", 
+                        "Good evening!", 
+                        "", 
+                        "(used as both greeting/goodbye)", 
+                        "Guten Abend!", 
+                        "", 
+                        "(sowohl Gruß als auch Abschied)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "F<UMO6%dI#", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "common-phrases", 
+                        "greetings"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "İyi geceler!", 
+                        "", 
+                        "Good night!", 
+                        "", 
+                        "(either as greeting/goodbye or putting someone to sleep)", 
+                        "Gute Nacht!", 
+                        "", 
+                        "(sowohl als Gruß/Abschied, als wenn jemand schlafen geht)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "BmZTGpBA#(", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "common-phrases", 
+                        "greetings"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "ne", 
+                        "", 
+                        "What / Which", 
+                        "", 
+                        "(for posing a question about an object)", 
+                        "Was / Welches", 
+                        "", 
+                        "(um eine Frage bzgl. eines Objekts zu stellen)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "yhiotN0i+m", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "question-words"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Memnun oldum.", 
+                        "", 
+                        "Pleasure to meet you.", 
+                        "", 
+                        "", 
+                        "Erfreut, (dich/sie) kennenzulernen.", 
+                        "", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "dv$3O,{/zN", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "d-", 
+                        "", 
+                        "too", 
+                        "", 
+                        "(small vowel harmony)", 
+                        "auch", 
+                        "", 
+                        "(kleine Vokalharmonie)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "xJ9i+rKa/u", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::adverbs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "[...] Hanım", 
+                        "", 
+                        "Miss / Mrs.", 
+                        "", 
+                        "(used together with first name, not surname)", 
+                        "Frau", 
+                        "", 
+                        "(zusammen mit dem Vornamen, nicht Nachnamen)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "mYo7_8<q`C", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "[...] Bey", 
+                        "", 
+                        "Mr.", 
+                        "", 
+                        "(used together with first name, not surname)", 
+                        "Herr", 
+                        "", 
+                        "(zusammen mit dem Vornamen, nicht Nachnamen)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "zQnbhA;|G*", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Hosça kalın!", 
+                        "", 
+                        "Goodbye!", 
+                        "", 
+                        "", 
+                        "Tschüss!", 
+                        "", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Dp7JZ^]Z>9", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Güle güle.", 
+                        "", 
+                        "Goodbye.", 
+                        "", 
+                        "(said by whoever leaves)", 
+                        "Tschüss", 
+                        "", 
+                        "(gesagt vom Gehenden)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "l2!e&zMv2^", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "common-phrases", 
+                        "greetings", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Haftaya, göruşmek üzere!", 
+                        "", 
+                        "Until next time, see you!", 
+                        "", 
+                        "", 
+                        "Bis nächstes Mal, auf Wiedersehen!", 
+                        "", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "K2{AGWSE);", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "people", 
+                        "phrases"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "öğretmen", 
+                        "", 
+                        "teacher", 
+                        "present", 
+                        "", 
+                        "Lehrer(in)", 
+                        "Nomenpersonalform, Präsens", 
+                        "", 
+                        "öğretmenim", 
+                        "I am a teacher.", 
+                        "Ich bin Lehrer.", 
+                        "öğretmensin", 
+                        "You are a teacher.", 
+                        "Du bist Lehrer.", 
+                        "öğretmen", 
+                        "He/she is a teacher.", 
+                        "Er/sie ist Lehrer(in).", 
+                        "öğretmeniz", 
+                        "We are teachers.", 
+                        "Wir sind Lehrer.", 
+                        "öğretmensiniz", 
+                        "You are teachers. (plural)<div>You are a teacher. (formal)</div><div>You are teachers. (formal plural)</div>", 
+                        "Ihr seid Lehrer. (plural)<div>Sie sind Lehrer. (Höflichkeit)</div><div>Sie sind Lehrer. (Höflichkeitsplural)</div>", 
+                        "öğretmen(ler)", 
+                        "They are teachers.", 
+                        "Sie sind Lehrer. (plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "szOhH4k]`&", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Hoş geldin!", 
+                        "", 
+                        "Welcome!", 
+                        "", 
+                        "(singular or informal)", 
+                        "Willkommen!", 
+                        "", 
+                        "(Singular oder informell)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "I3A)JRRoP~", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Hoş geldiniz!", 
+                        "", 
+                        "Welcome!", 
+                        "", 
+                        "(plural / formal)", 
+                        "Willkommen!", 
+                        "", 
+                        "(Plural / Höflichkeit)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "HPKlp|cM_e", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "ad", 
+                        "", 
+                        "name", 
+                        "noun possesive form", 
+                        "", 
+                        "Name", 
+                        "Nomenpossesivform", 
+                        "", 
+                        "Benim adım", 
+                        "My name", 
+                        "Mein Name", 
+                        "Senin adın", 
+                        "Your name", 
+                        "Dein Name", 
+                        "Onun adı", 
+                        "His/her name", 
+                        "Sein/Ihr Name", 
+                        "Bizim adımiz", 
+                        "Our name", 
+                        "Unser Name", 
+                        "Sizin adınız", 
+                        "Your name (plural/formal)", 
+                        "Euer Name (plural)<div>Ihr Name (höfl.)</div>", 
+                        "Onlar adı", 
+                        "Their name", 
+                        "Ihr Name (plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "i<yZ]gK5CA", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::pronouns", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "avukat", 
+                        "", 
+                        "lawyer", 
+                        "noun personal form, present", 
+                        "", 
+                        "Anwalt", 
+                        "Nomenpersonalform, Präsens", 
+                        "", 
+                        "avukatım", 
+                        "I am a lawyer.", 
+                        "Ich bin Anwalt.", 
+                        "avukatsın", 
+                        "You are a lawyer.", 
+                        "Du bist Anwalt.", 
+                        "avukat", 
+                        "He/she is a lawyer.", 
+                        "Er/sie ist Anwalt.", 
+                        "avukatız", 
+                        "We are lawyers.", 
+                        "Wir sind Anwälte.", 
+                        "avukatsınız", 
+                        "You are lawyers. (plural, plural+formal)<div>You are a lawyer. (formal)</div>", 
+                        "Ihr seid Anwälte. (plural)<div>Sie sind Anwalt. (höfl.)</div><div>Sie sind Anwälte. (plural+höfl.)</div>", 
+                        "avukat(lar)", 
+                        "They are lawyers.", 
+                        "Sie sind Anwälte. (plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "ruX82t0d8<", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "doktor", 
+                        "", 
+                        "doctor", 
+                        "noun personal form, present tense", 
+                        "", 
+                        "Arzt", 
+                        "Nomenpersonalform, Präsens", 
+                        "", 
+                        "doktorum", 
+                        "I am a doctor.", 
+                        "Ich bin Arzt.", 
+                        "doktorsum", 
+                        "You are a doctor.", 
+                        "Du bist Arzt.", 
+                        "doktor", 
+                        "He/she is a doctor.", 
+                        "Er/sie ist Arzt.", 
+                        "doktoruz", 
+                        "We are doctors.", 
+                        "Wir sind Ärzte.", 
+                        "doktorsunuz", 
+                        "You are doctors. (plural, plural+formal)<div>You are a doctor. (formal)</div>", 
+                        "Ihr seid Ärzte.<div>Sie sind Arzt. (höfl.)</div><div>Sie sind Ärzte. (plural+höfl.)</div>", 
+                        "doktor(lar)", 
+                        "They are doctors.", 
+                        "Sie sind Ärzte. (plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "c:B7+2qC2?", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "mühendis", 
+                        "", 
+                        "engineer", 
+                        "noun personal form, present tense", 
+                        "", 
+                        "Ingenieur", 
+                        "Nomenpersonalform, Präsens", 
+                        "", 
+                        "mühendisim", 
+                        "I am an engineer.", 
+                        "Ich bin Ingenieur.", 
+                        "mühendissin", 
+                        "You are an engineer.", 
+                        "Du bist Ingenieur.", 
+                        "mühendis", 
+                        "He/she is an engineer.", 
+                        "Er/sie ist Ingenieur/in.", 
+                        "mühendisiz", 
+                        "We are engineers.", 
+                        "Wir sind Ingenieure.", 
+                        "mühendissiniz", 
+                        "You are engineers. (plural, formal+plural)<div>You are an engineer. (formal)</div>", 
+                        "Ihr seid Ingenieure. (plural)<div>Sie sind Ingenieur. (höfl.)</div><div>Sie sind Ingenieure. (plural+höfl.)</div>", 
+                        "mühendis(ler)", 
+                        "They are engineers.", 
+                        "Sie sind Ingenieure. (3. plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "y~JY;+27Lx", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people", 
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "postacı", 
+                        "isim, şimdeki zaman", 
+                        "mailman", 
+                        "noun personal form, present tense", 
+                        "", 
+                        "Postbote", 
+                        "Nomenpersonalform, Präsens", 
+                        "", 
+                        "postacıyım", 
+                        "I am a mailman.", 
+                        "Ich bin Postbote.", 
+                        "postacısın", 
+                        "You are a mailman.", 
+                        "Du bist Postbote.", 
+                        "postacı", 
+                        "He/she is a mailman.", 
+                        "Er/sie ist Postbote.", 
+                        "postacıyız", 
+                        "We are mailmen.", 
+                        "Wir sind Postboten.", 
+                        "postacısınız", 
+                        "You are mailmen.", 
+                        "Ihr seid Postboten.<div>Sie sind Postbote. (höfl.)</div><div>Sie sind Postboten. (plural+höfl.)</div>", 
+                        "postacı(lar)", 
+                        "They are mailmen.", 
+                        "Sie sind Postboten. (3. plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "gN57lFZn1X", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "futbolcu", 
+                        "", 
+                        "footballer", 
+                        "noun personal form, present tense", 
+                        "", 
+                        "Fußballer", 
+                        "Nomenpersonalform, Präsens", 
+                        "", 
+                        "futbolcuyum", 
+                        "I am a footballer.", 
+                        "Ich bin Fußballer.", 
+                        "futbolcusun", 
+                        "You are a footballer.", 
+                        "Du bist ein Fußballer.", 
+                        "futbolcu", 
+                        "He/she is a footballer.", 
+                        "Er/sie ist Fußballer.", 
+                        "futbolcuyuz", 
+                        "We are footballers.", 
+                        "Wir sind Fußballer.", 
+                        "futbolcusunuz", 
+                        "You are footballers.", 
+                        "Ihr seid Fußballer.<div>Sie sind Fußballer. (höfl., plural+höfl.)</div>", 
+                        "futbolcu(lar)", 
+                        "They are footballers.", 
+                        "Sie sind Fußballer. (3. plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "yS}%:__=`V", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "ve", 
+                        "bağlaç", 
+                        "and", 
+                        "conjunction", 
+                        "", 
+                        "und", 
+                        "Verbindungswort", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Og;7M|lD6f", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "glue-words", 
+                        "lang::tr::semantics::adverbs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "doktor", 
+                        "", 
+                        "doctor", 
+                        "noun possesive form", 
+                        "", 
+                        "Arzt", 
+                        "Nomenpossesivform", 
+                        "", 
+                        "Benim doktorum", 
+                        "My doctor", 
+                        "Mein Arzt", 
+                        "Senin doktorun", 
+                        "Your doctor", 
+                        "Dein Arzt", 
+                        "Onun doktoru", 
+                        "His/her doctor", 
+                        "Sein/ihr Arzt", 
+                        "Bizim doktorumuz", 
+                        "Our doctor", 
+                        "Unser Arzt", 
+                        "Sizin doktorunuz", 
+                        "Your doctor (pl, formal, pl+formal)", 
+                        "Euer Arzt<div>Ihr Arzt (höfl., pl+höfl.)</div>", 
+                        "Onların doktoru", 
+                        "Their doctor", 
+                        "Ihr Arzt (3. Person)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "p=Fv|WN95`", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::pronouns", 
+                        "occupations", 
+                        "status::grammar-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "mI", 
+                        "", 
+                        "(question particle)", 
+                        "personal form", 
+                        "(used for yes/no questions; use at sentence's end; attracts personal suffixes)", 
+                        "(Fragepartikel)", 
+                        "Personalform", 
+                        "(für ja/nein Fragen; am Satzende; persönliche Suffixe anfügen)", 
+                        "mIyIm", 
+                        "", 
+                        "", 
+                        "mIsIn", 
+                        "", 
+                        "", 
+                        "mI", 
+                        "", 
+                        "", 
+                        "mIyIz", 
+                        "", 
+                        "", 
+                        "mIsInIz", 
+                        "", 
+                        "", 
+                        "mI(l-r)", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "c{Y,Q][^$D", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "glue-words", 
+                        "question-words", 
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "değil", 
+                        "", 
+                        "(not / any / none)", 
+                        "personal form", 
+                        "(used to negate a yes/no question)", 
+                        "(nicht / kein)", 
+                        "Personalform", 
+                        "(verwendet, um ja/nein Frage verneinend zu beantworten)", 
+                        "değilim", 
+                        "", 
+                        "", 
+                        "değilsin", 
+                        "", 
+                        "", 
+                        "değil", 
+                        "", 
+                        "", 
+                        "değiliz", 
+                        "", 
+                        "", 
+                        "değilsiniz", 
+                        "", 
+                        "", 
+                        "değil(ler)", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "N4}<J[(nkB", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "glue-words", 
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Hayir", 
+                        "", 
+                        "no", 
+                        "", 
+                        "", 
+                        "nein", 
+                        "", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "GOy5FXF!R/", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "glue-words", 
+                        "question-words"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Evet", 
+                        "", 
+                        "yes", 
+                        "", 
+                        "", 
+                        "Ja", 
+                        "", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "CYn|+W]oeM", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "glue-words", 
+                        "question-words"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "bilmek", 
+                        "", 
+                        "to know", 
+                        "present", 
+                        "", 
+                        "wissen", 
+                        "Präsens", 
+                        "", 
+                        "biliyorum", 
+                        "I know.", 
+                        "Ich weiss.", 
+                        "biliyorsun", 
+                        "You know.", 
+                        "Du weisst.", 
+                        "biliyor", 
+                        "He/she knows.", 
+                        "Er/sie weisst.", 
+                        "biliyoruz", 
+                        "We know.", 
+                        "Wir wissen.", 
+                        "biliyorsunuz", 
+                        "You know. (pl, formal, pl+formal)", 
+                        "Ihr wisst.<div>Sie wissen (höfl., pl+höfl.)</div>", 
+                        "biliyor(lar)", 
+                        "They know.", 
+                        "Sie wissen. (3. plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "ozm[AOJc~f", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::verbs", 
+                        "thinking"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "okumek", 
+                        "", 
+                        "to read, to study", 
+                        "present", 
+                        "", 
+                        "lesen, lernen", 
+                        "Präsens", 
+                        "", 
+                        "okuyorum", 
+                        "I read. /<div>I study.</div>", 
+                        "Ich lese. /<div>Ich lerne.&nbsp;</div>", 
+                        "okuyorsun", 
+                        "You read. /<div>You study.</div>", 
+                        "Du liest. /<div>Du lernst.</div>", 
+                        "okuyor", 
+                        "He/she reads. /<div>He/she studies.</div>", 
+                        "Er/sie liest. /<div>Er/sie lernt.</div>", 
+                        "okuyoruz", 
+                        "We read. /<div>We study.</div>", 
+                        "Wir lesen. /<div>Wir lernen.</div>", 
+                        "okuyorsunuz", 
+                        "You read. /<div>You study.&nbsp;(pl, fl, pl+fl)</div>", 
+                        "Ihr liest. / Ihr lernt.<div>Sie lesen. / Sie lernen. (höfl, pl+höfl.)</div>", 
+                        "okuyor(lar)", 
+                        "They read. / They study.", 
+                        "Sie lesen. / Sie lernen. (3. plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "gHZUQ1kXX`", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "lang::tr::semantics::verbs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "yazmak", 
+                        "", 
+                        "to write", 
+                        "present", 
+                        "", 
+                        "schreiben", 
+                        "Präsens", 
+                        "", 
+                        "yazıyorum", 
+                        "I write.", 
+                        "Ich schreibe.", 
+                        "yazıyorsun", 
+                        "You write. (sg)", 
+                        "Du schreibst.", 
+                        "yazıyor", 
+                        "He/she writes.", 
+                        "Er/sie schreibt.", 
+                        "yazıyoruz", 
+                        "We write.", 
+                        "Wir schreiben.", 
+                        "yazıyorsunuz", 
+                        "You write. (pl, formal, pl+formal)", 
+                        "Ihr schreibt.<div>Sie schreiben. (höfl., pl+höfl.)</div>", 
+                        "yazıyorlar", 
+                        "They write.", 
+                        "Sie schreiben. (3. plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "MpeQ.Qx9XN", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "şoför", 
+                        "", 
+                        "driver", 
+                        "noun personal form, present tense", 
+                        "", 
+                        "Chauffeur", 
+                        "Nomenpersonalform, Präsens", 
+                        "", 
+                        "şoförüm", 
+                        "I am a driver.", 
+                        "Ich bin Chauffeur.", 
+                        "şoförsün", 
+                        "You are a driver.", 
+                        "Du bist Chauffeur.", 
+                        "şoför", 
+                        "He/she is a driver.", 
+                        "Er/sie ist Chauffeur.", 
+                        "şoförüz", 
+                        "We are drivers.", 
+                        "Wir sind Chauffeure.", 
+                        "şoförsünüz", 
+                        "You are drivers. (pl, formal, pl+formal)", 
+                        "Ihr seid Chauffeure.<div>Sie sind Chauffeur. (höfl.)</div><div>Sie sind Chauffeure. (pl+höfl)</div>", 
+                        "şoför(ler)", 
+                        "They are drivers.", 
+                        "Sie sind Fahrer. (3. Plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "nwKF{5ELUj", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::tenses::present"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "şoför", 
+                        "", 
+                        "driver", 
+                        "noun possesive form", 
+                        "", 
+                        "Chauffeur", 
+                        "Nomenpossesivform", 
+                        "", 
+                        "Benim&nbsp;şoförüm", 
+                        "My driver", 
+                        "Mein Chauffeur", 
+                        "Senin&nbsp;şoförün", 
+                        "Your driver", 
+                        "Dein Chaffeur", 
+                        "Onun&nbsp;şoförü", 
+                        "His/her driver", 
+                        "Sein/ihr Chaffeur", 
+                        "Bizim&nbsp;şoförümuz", 
+                        "Our driver", 
+                        "Unser Chaffeur", 
+                        "Sizim&nbsp;şoförünüz", 
+                        "Your driver (pl, formal, pl+formal)", 
+                        "Euer Chaffeur<div>Ihr Chaffeur (höfl., pl+höfl)</div>", 
+                        "Onların şoförü", 
+                        "Their driver", 
+                        "Ihr Chaffeur (3. plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "neYfLOSu&#", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "öğretmen", 
+                        "", 
+                        "teacher", 
+                        "noun possesive form", 
+                        "", 
+                        "Lehrer", 
+                        "Nomenpossesivform", 
+                        "", 
+                        "Benim&nbsp;öğretmenim.", 
+                        "My teacher", 
+                        "Mein Lehrer", 
+                        "Senin&nbsp;öğretmenin.", 
+                        "Your teacher.", 
+                        "Dein Lehrer.", 
+                        "Onun&nbsp;öğretmeni.", 
+                        "His/her teacher.", 
+                        "Sein/ihr Lehrer.", 
+                        "Bizim&nbsp;öğretmenimiz", 
+                        "Our teacher", 
+                        "Unser Lehrer", 
+                        "Sizim&nbsp;öğretmeniniz", 
+                        "Your teacher (pl, formal, pl+formal)", 
+                        "Euer Lehrer<div>Ihr Lehrer (höfl, pl+höfl)</div>", 
+                        "Onların öğretmeni", 
+                        "Their teacher", 
+                        "Ihr Lehrer (3. plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "x20f+;e5KU", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "öğrenci", 
+                        "", 
+                        "student", 
+                        "noun possesive form", 
+                        "", 
+                        "Student", 
+                        "Nomenpossesivform", 
+                        "", 
+                        "Benim&nbsp;öğrencim", 
+                        "My student", 
+                        "Mein Student", 
+                        "Senin&nbsp;öğrencin", 
+                        "Your student", 
+                        "Dein Student", 
+                        "Onun&nbsp;öğrenci", 
+                        "His/her student", 
+                        "Sein/ihr Student", 
+                        "Bizim&nbsp;öğrencimiz.", 
+                        "Our student.", 
+                        "Unser Student.", 
+                        "Sizim&nbsp;öğrenciniz.", 
+                        "Your student. (pl, formal, pl+formal)", 
+                        "Euer Student<div>Ihr Student (höfl, pl+höfl)</div>", 
+                        "Onların öğrenci", 
+                        "Their student", 
+                        "Ihr Student"
+                    ], 
+                    "flags": 0, 
+                    "guid": "j0(HG[!?uz", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::pronouns", 
+                        "occupations", 
+                        "people", 
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "iyi", 
+                        "sıfat", 
+                        "good", 
+                        "adjective", 
+                        "(remember the dotted \"i\" even if capitalized)", 
+                        "gut", 
+                        "Adjektiv", 
+                        "(beachte das punktierte \"i\" auch bei Großschreibung)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "KdM`TteX<}", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::adjectives", 
+                        "opinion", 
+                        "thinking"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "ad", 
+                        "isim", 
+                        "name", 
+                        "noun", 
+                        "", 
+                        "Name", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Mt2z08D{^H", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "hafta", 
+                        "isim", 
+                        "week", 
+                        "noun", 
+                        "", 
+                        "Woche", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "QS5rYVIQGP", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::nouns"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "öğretmen", 
+                        "isim", 
+                        "teacher", 
+                        "noun", 
+                        "", 
+                        "Lehrer", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "LFzU(33G)!", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "doktor", 
+                        "isim", 
+                        "doctor", 
+                        "noun", 
+                        "", 
+                        "Arzt", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "NHo$%w}I{$", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "mühendis", 
+                        "isim", 
+                        "engineer", 
+                        "noun", 
+                        "", 
+                        "Ingenieur", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "lU;Nl!]alz", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "şoför", 
+                        "isim", 
+                        "driver", 
+                        "noun", 
+                        "", 
+                        "Chauffeur", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "GmnVh5_D7B", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people", 
+                        "transport"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "futbolcu", 
+                        "isim", 
+                        "footballer", 
+                        "noun", 
+                        "", 
+                        "Fußballer", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "P~d[;Hd`9c", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "postacı", 
+                        "isim", 
+                        "mailman", 
+                        "noun", 
+                        "", 
+                        "Postbote", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "lv/D!w*8#/", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "errands", 
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "bilmek", 
+                        "fiil", 
+                        "to know", 
+                        "verb", 
+                        "", 
+                        "wissen", 
+                        "Verb", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Q#]U[C{D%-", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "lang::tr::semantics::verbs", 
+                        "thinking"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "olmak", 
+                        "fiil", 
+                        "to be", 
+                        "verb", 
+                        "(this verb's root disappears and the ending is added to the sentence's object)", 
+                        "sein", 
+                        "Verb", 
+                        "(der Stamm dieses Verbs verschwindet und die Endung wird dem Objekt des Satzes angefügt)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "P7@U8_5kp+", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "lang::tr::semantics::verbs", 
+                        "thinking"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "okumek", 
+                        "fiil", 
+                        "read<div>study</div>", 
+                        "verb", 
+                        "", 
+                        "lesen<div>studieren</div>", 
+                        "Verb", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "O,>7G{bMga", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "lang::tr::semantics::verbs", 
+                        "thinking"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "avukat", 
+                        "isim", 
+                        "lawyer", 
+                        "noun", 
+                        "", 
+                        "Anwalt", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "r>rfsHYzmK", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "lang::tr::semantics::nouns", 
+                        "occupations", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "değil", 
+                        "belirteç", 
+                        "not / (not) any", 
+                        "adverb", 
+                        "(personal suffixes added)", 
+                        "nicht / kein", 
+                        "Adverb", 
+                        "(Personalendungen angefügt)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "kbwVJ1BUg-", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::adverbs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "nasıl", 
+                        "kişisel,&nbsp;şimdeki zaman", 
+                        "how", 
+                        "personal form, present", 
+                        "(question word)", 
+                        "wie", 
+                        "Personalform, Präsens", 
+                        "(Fragewort)", 
+                        "Nasılım?", 
+                        "How am I?", 
+                        "Wie bin ich?", 
+                        "Nasılsın?", 
+                        "How are you?", 
+                        "Wie geht es dir? / Wie bist du?", 
+                        "(O) nasıl?", 
+                        "How is he/she?", 
+                        "Wie geht's ihm/ihr?", 
+                        "Nasılımız?", 
+                        "How are we (doing)?", 
+                        "Wie geht's uns? /<div>Wie sind wir (so)?</div>", 
+                        "Nasılınız?", 
+                        "How are you (guys) doing?", 
+                        "Wie geht's euch (beiden)? / Wie seid ihr?<div>Wie geht's Ihnen? / Wie sind Sie?</div>", 
+                        "(Onlar) nasıl?<div>Nasıllar?</div>", 
+                        "How are they (doing)?", 
+                        "Wie geht's Ihnen? / Wie sind sie? (3. Plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Hn$~4_{>;7", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "people", 
+                        "question-words", 
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "nasıl", 
+                        "belirteç", 
+                        "how", 
+                        "adverb", 
+                        "(personal suffixes appended)", 
+                        "wie", 
+                        "Fragewort", 
+                        "(Personalendungen angefügt)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "n2mI@aou;A", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "people", 
+                        "question-words", 
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "köylü", 
+                        "isim", 
+                        "villager", 
+                        "noun", 
+                        "", 
+                        "Dorfbewohner", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "g{Nn@;4+CE", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "köylü", 
+                        "isim", 
+                        "villager", 
+                        "noun personal form, present", 
+                        "", 
+                        "Dorfbewohner", 
+                        "Nomenpersonalform, Präsens", 
+                        "", 
+                        "köylüyüm", 
+                        "I am a villager.", 
+                        "Ich bin Dorfbewohner.", 
+                        "köylüsün", 
+                        "You are a villager.", 
+                        "Du bist Dorfbewohner.", 
+                        "(O) köylü", 
+                        "He/she is a villager.", 
+                        "Er/sie ist Dorfbewohner.", 
+                        "köylüyüz", 
+                        "We are villagers.", 
+                        "Wir sind Dorfbewohner.", 
+                        "köylüsünüz", 
+                        "You are villagers. (pl, pl+formal)<div>You are a villager. (formal)</div>", 
+                        "Ihr seid Dorfbewohner.<div>Sie sind Dorfbewohner. &nbsp;(höfl., pl+höfl.)</div>", 
+                        "(Onlar) köylü(ler)", 
+                        "They are villagers.", 
+                        "Sie sind Dorfbewohner. (3. plural)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "suO.`Q=rko", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "people", 
+                        "regions"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Selam!", 
+                        "", 
+                        "Hi!", 
+                        "", 
+                        "(informal greeting)", 
+                        "Hi!", 
+                        "", 
+                        "(informeller Gruß)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "mQx!O1/p~T", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Teşekkür(ler)!", 
+                        "", 
+                        "Thank(s)!", 
+                        "", 
+                        "", 
+                        "Danke (vielmals)!", 
+                        "", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "dv)iN]|R-f", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "teşekkür etmek", 
+                        "geniş zaman", 
+                        "to give thanks", 
+                        "aorist", 
+                        "", 
+                        "sich bedanken", 
+                        "Aorist", 
+                        "", 
+                        "Teşekkür ederim.", 
+                        "I thank (you).<div>I give (you my) thanks.</div>", 
+                        "Ich bedanke mich.", 
+                        "Teşekkür edersin.", 
+                        "You thank (sb.)<div>You give (sb. your) thanks.</div>", 
+                        "Du bedankst dich.", 
+                        "Teşekkür eder.", 
+                        "He/she thanks (sb.)<div>He/she gives (sb. his/her) thanks.</div>", 
+                        "Er/sie bedankt sich.", 
+                        "Teşekkür ederiz.", 
+                        "We thank (sb.)<div>We give (our) thanks.</div>", 
+                        "Wir bedanken uns.", 
+                        "Teşekkür edersiniz.", 
+                        "You thank (sb.)<div>You give (your) thanks. (pl, fl, pl+fl)</div>", 
+                        "Ihr bedankt euch.<div>Sie bedanken sich. (höfl, pl+höfl)</div>", 
+                        "Teşekkür eder(ler).", 
+                        "They thank (sb.)<div>They give (their) thanks.</div>", 
+                        "Sie bedanken sich (3. pl)"
+                    ], 
+                    "flags": 0, 
+                    "guid": "PihMmBFiIZ", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "lang::tr::tenses::aorist", 
+                        "people", 
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Sağolun! / Sağol!", 
+                        "", 
+                        "Thanks!", 
+                        "", 
+                        "(informal)", 
+                        "Danke!", 
+                        "", 
+                        "(informell)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "OvUkY`vqNh", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "greetings", 
+                        "people"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "N'aber?", 
+                        "", 
+                        "What's up?", 
+                        "", 
+                        "(informal greeting)", 
+                        "Was gibt's?", 
+                        "", 
+                        "(informeller Gruß)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "jI81{E.(<{", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "communication", 
+                        "greetings"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "tamamlamak", 
+                        "fiil", 
+                        "(to) complete", 
+                        "verb", 
+                        "", 
+                        "ergänzen", 
+                        "Verb", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "O2Hi@)mk<D", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "lang::tr::semantics::verbs"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "tamamlamak", 
+                        "mastar", 
+                        "(to) complete", 
+                        "imperative", 
+                        "", 
+                        "ergänzen", 
+                        "Imperativ", 
+                        "", 
+                        "Tamamlayın!", 
+                        "Complete (sth.)! (2p)", 
+                        "Ergänze (es)!", 
+                        "Tamamlayımız!", 
+                        "(Let's) complete (sth.)! (1pPL)", 
+                        "(Lass uns) ergänzen! (1pPL)", 
+                        "Tamamlayınız!", 
+                        "Complete (sth.)! (2pPL, 2pFormal+PL)", 
+                        "Ergänzt (es)!&nbsp;<div>Ergänzen Sie (es)! (höfl., pl+höfl.)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "d]hg;qh0D3", 
+                    "note_model_uuid": "d8ebf7eb-5aab-11e7-9886-0024d7a9bf9c", 
+                    "tags": [
+                        "academic", 
+                        "lang::tr::semantics::verbs", 
+                        "lang::tr::tenses::imperative", 
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Tamam.", 
+                        "", 
+                        "Ok.", 
+                        "", 
+                        "", 
+                        "Ok.", 
+                        "", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "O3<wpCLk@l", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "common-phrases", 
+                        "communication"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "iyilik", 
+                        "isim", 
+                        "goodness", 
+                        "noun", 
+                        "", 
+                        "Gutheit", 
+                        "Nomen", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "mOfJuZ1dJ;", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "abstract", 
+                        "judgement", 
+                        "lang::tr::semantics::nouns", 
+                        "personal-values"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "kalmak", 
+                        "", 
+                        "to stay", 
+                        "verb", 
+                        "", 
+                        "bleiben", 
+                        "Verb", 
+                        "", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "KU)Z7b,XM>", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::verbs", 
+                        "people"
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "d8ebf7f7-5aab-11e7-9853-0024d7a9bf9c", 
+            "deck_config_uuid": "d8ea2322-5aab-11e7-bdbf-0024d7a9bf9c", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "grammar", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Small Vowel Harmony, full", 
+                        "a,ı,o,u — a<br>e,i,ö,ü — e"
+                    ], 
+                    "flags": 0, 
+                    "guid": "}ktcJ", 
+                    "note_model_uuid": "d8ec1ef0-5aab-11e7-93df-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Small", 
+                        "a", 
+                        "a", 
+                        "a", 
+                        "a", 
+                        "e", 
+                        "e", 
+                        "e", 
+                        "e"
+                    ], 
+                    "flags": 0, 
+                    "guid": "o{cerAtUv]", 
+                    "note_model_uuid": "d8ec1ef3-5aab-11e7-a6e2-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Large", 
+                        "ı", 
+                        "ı", 
+                        "u", 
+                        "u", 
+                        "i", 
+                        "i", 
+                        "ü", 
+                        "ü"
+                    ], 
+                    "flags": 0, 
+                    "guid": "G}kWM0Z98]", 
+                    "note_model_uuid": "d8ec1ef3-5aab-11e7-a6e2-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Large vowel harmony, full", 
+                        "a,ı -&nbsp;ı<div>o,u - u</div><div>e,i - i</div><div>ö,ü - ü</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "t<y?3Gf)S/", 
+                    "note_model_uuid": "d8ec1ef0-5aab-11e7-93df-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "şimdeki zaman", 
+                        "", 
+                        "", 
+                        "present tense", 
+                        "(starts with large vowel harmony if verb root ends with consonant)", 
+                        "", 
+                        "Präsens", 
+                        "(grosse Vokalharmonie am Anfang falls Verbstamm mit Konsonante endet)", 
+                        "...(I)yorum", 
+                        "", 
+                        "", 
+                        "...(I)yorsun", 
+                        "", 
+                        "", 
+                        "...(I)yor", 
+                        "", 
+                        "", 
+                        "...(I)yoruz", 
+                        "", 
+                        "", 
+                        "...(I)yorsunuz", 
+                        "", 
+                        "", 
+                        "...(I)yor(lar)", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "k^!BgPRGXu", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::tenses::present"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "olmak", 
+                        "şimdeki zaman", 
+                        "to be", 
+                        "personal endings for &lt;noun&gt;, present tense", 
+                        "(meaning: to be &lt;noun&gt;; sts. connective-(y) if noun ends in vowel)", 
+                        "sein, Präsens", 
+                        "Personalendungen für &lt;Nomen&gt;, Präsens", 
+                        "(maW: &lt;Nomen&gt; sein; bB. Verbindungs-(y) wenn Nomen in Vokal endet)", 
+                        "...(y)Im", 
+                        "", 
+                        "", 
+                        "...sIn", 
+                        "", 
+                        "", 
+                        "...", 
+                        "", 
+                        "", 
+                        "...(y)Iz", 
+                        "", 
+                        "", 
+                        "...sInIz", 
+                        "", 
+                        "", 
+                        "...(l-r)", 
+                        "", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "s9f/QI(1C!", 
+                    "note_model_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::tenses::present"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "...l(I)k", 
+                        "", 
+                        "...ness", 
+                        "suffix", 
+                        "(suffix used to turn adjectives into nouns)", 
+                        "...heit", 
+                        "Endung", 
+                        "(Endung, um aus Adjektiven Nomen zu bilden)", 
+                        "true"
+                    ], 
+                    "flags": 0, 
+                    "guid": "l-Z2)OA$>%", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "lang::tr::semantics::nouns"
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "d8ec4611-5aab-11e7-8fa1-0024d7a9bf9c", 
+            "deck_config_uuid": "d8ea2322-5aab-11e7-bdbf-0024d7a9bf9c", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [
+                "rec1497208085.mp3"
+            ], 
+            "mid": "1496755661563", 
+            "name": "symbols", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "..I..", 
+                        "", 
+                        "large vowel harmony", 
+                        "notation", 
+                        "(large 'i', used in the middle of words throughout the \"turk::&lt;sub&gt;\" subdecks)", 
+                        "große Vokalharmonie", 
+                        "Notation", 
+                        "(großes 'i', verwendet in allen \"turk::&lt;sub&gt;\" Subdecks)", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "EQ+gs%9$>8", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "notation"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "-", 
+                        "(symbol)", 
+                        "small vowel harmony", 
+                        "notation", 
+                        "(used throughout the &nbsp;turk::&lt;sub&gt; &nbsp;subdecks)", 
+                        "kleine Vokalharmonie", 
+                        "Notation", 
+                        "(in allen &nbsp;turk::&lt;sub&gt; &nbsp;Subdecks verwendet)", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "p3fAny>sd", 
+                    "note_model_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+                    "tags": [
+                        "notation"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "A", 
+                        "a", 
+                        "[ah]", 
+                        "a in father", 
+                        "a in Vater", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "ERL;5?l.g`", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "B", 
+                        "b", 
+                        "[be]", 
+                        "b in Bee", 
+                        "b in bauen", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "s6}4tAQ];7", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "C", 
+                        "c", 
+                        "[je]", 
+                        "j in job", 
+                        "stimmhaftes \"sch\" in schaffen (Zungenspitze gegen Obergaumen)", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "m_?JW~`g^Y", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ç", 
+                        "ç", 
+                        "[che]", 
+                        "ch in chop", 
+                        "\"tsch\" in tschüss", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "zl#g3OZc7Q", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "D", 
+                        "d", 
+                        "[de]", 
+                        "d in day", 
+                        "d in Dach", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "LUFjOsL5]3", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "E", 
+                        "e", 
+                        "[e]", 
+                        "e in bet", 
+                        "e in Ente", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "jd*v)z*I*M", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "F", 
+                        "f", 
+                        "[fe]", 
+                        "f in fast", 
+                        "v in voll", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "dr;Dw:auI-", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "G", 
+                        "g", 
+                        "[ge]", 
+                        "g in goal", 
+                        "g in Guss", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "%!&:q:/>L", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ğ", 
+                        "ğ", 
+                        "yumuşak [ge]", 
+                        "softer h than in hail", 
+                        "weicheres h als in Hals", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "oVnE7%dEi2", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "H", 
+                        "h", 
+                        "[he]", 
+                        "h in hay", 
+                        "h in heute", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "P#y[t-;,|Y", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "I", 
+                        "ı", 
+                        "[yh]", 
+                        "short \"Ewwww\" sound, tongue flat down", 
+                        "y wie in Xylophon", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "tr>bSp0~9D", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "İ", 
+                        "i", 
+                        "[i]", 
+                        "i in fit", 
+                        "i in Imbiss", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "u{a6]s}rp#", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "J", 
+                        "j", 
+                        "[je]", 
+                        "French j in joyeux", 
+                        "stimmhaftes g in Engagement", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "sZ`Jjq44AS", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": [
+                        "status::teacher-check"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "K", 
+                        "k", 
+                        "[ke]", 
+                        "c in cold", 
+                        "k in Klaus", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "evC$dCjvy?", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "L", 
+                        "l", 
+                        "[le]", 
+                        "l in lid", 
+                        "l in laut", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "v,2n/M2L?x", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "M", 
+                        "m", 
+                        "[me]", 
+                        "m in mouse", 
+                        "m in Maus", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "EZp1LVxlO0", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "N", 
+                        "n", 
+                        "[ne]", 
+                        "n in not", 
+                        "n in nicht", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "i~nLC[>,#F", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "O", 
+                        "o", 
+                        "[o]", 
+                        "o in lot", 
+                        "o in Pott", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "M?QAAv_|M5", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ö", 
+                        "ö", 
+                        "[ö]", 
+                        "combined [oe]", 
+                        "wie deutsches ö", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "wd;?<c<QgH", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "P", 
+                        "p", 
+                        "[pe]", 
+                        "p in pit", 
+                        "p in Pause", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "x`(ifvCjcH", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "R", 
+                        "r", 
+                        "[re]", 
+                        "r in rat", 
+                        "r in rot", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "IiZGi7)Cj_", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "S", 
+                        "s", 
+                        "[se]", 
+                        "s in sit", 
+                        "stimmloses s in Sau", 
+                        "[sound:rec1497208085.mp3]"
+                    ], 
+                    "flags": 0, 
+                    "guid": "g8]XmTNokw", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ş", 
+                        "ş", 
+                        "[she]", 
+                        "sh in she", 
+                        "sch in Schande", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "n*aT~FQl6A", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "T", 
+                        "t", 
+                        "[te]", 
+                        "t in total", 
+                        "t in Tau", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "c]ebD<<o]8", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "U", 
+                        "u", 
+                        "[u]", 
+                        "oo in loot", 
+                        "u in Hut", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "uj?@xZ*ME3", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Ü", 
+                        "ü", 
+                        "[ü]", 
+                        "combine [ue] (u with puckered lips)", 
+                        "wie deutsches ü", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "Qu8&NO@8|5", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "V", 
+                        "v", 
+                        "[ve]", 
+                        "v in veal", 
+                        "w in Wald", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "l}43v*WTee", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Y", 
+                        "y", 
+                        "[ye]", 
+                        "y in yet", 
+                        "j in jaulen", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "ivx?;%G6%<", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Z", 
+                        "z", 
+                        "[ze]", 
+                        "z in zap (tip of the tongue against upper teeth)", 
+                        "stimmhaftes s in Säule", 
+                        ""
+                    ], 
+                    "flags": 0, 
+                    "guid": "fv$fFHM[&E", 
+                    "note_model_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+                    "tags": []
+                }
+            ]
+        }
+    ], 
+    "crowdanki_uuid": "5324a426-5a70-11e7-95b8-0022434336e9", 
+    "deck_config_uuid": "d8ea2322-5aab-11e7-bdbf-0024d7a9bf9c", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "d8ea2322-5aab-11e7-bdbf-0024d7a9bf9c", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 30, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "Turkish vocabulary and grammar from the course \"Turkish 1\" at KIT", 
+    "dyn": 0, 
+    "extendNew": 50, 
+    "extendRev": 50, 
+    "media_files": [], 
+    "name": "lang::turk", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "d8ebf7eb-5aab-11e7-9886-0024d7a9bf9c", 
+            "css": "\t.card {\n font-family: arial;\n font-size: 16px;\n text-align: center;\n color: black;\n background-color: white;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Word (tr)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Tense / Case (tr)", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Translation (en)", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Tense / Case (en)", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Notes (en)", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Translation (de)", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Tense / Case (de)", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Notes (de)", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2sing", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2singEN", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2singDE", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "1plur", 
+                    "ord": 11, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "1plurEN", 
+                    "ord": 12, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "1plurDE", 
+                    "ord": 13, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2plur", 
+                    "ord": 14, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2plurEN", 
+                    "ord": 15, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2plurDE", 
+                    "ord": 16, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "tr: Imperative", 
+            "req": [
+                [
+                    0, 
+                    "any", 
+                    [
+                        0, 
+                        3
+                    ]
+                ], 
+                [
+                    1, 
+                    "any", 
+                    [
+                        0, 
+                        3
+                    ]
+                ], 
+                [
+                    2, 
+                    "any", 
+                    [
+                        0, 
+                        3
+                    ]
+                ], 
+                [
+                    3, 
+                    "all", 
+                    [
+                        8
+                    ]
+                ], 
+                [
+                    4, 
+                    "all", 
+                    [
+                        11
+                    ]
+                ], 
+                [
+                    5, 
+                    "all", 
+                    [
+                        14
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [
+                "academic", 
+                "lang::tr::semantics::verbs", 
+                "lang::tr::tenses::imperative", 
+                "status::teacher-check"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b>\n{{2sing}}\n</b><br>\n\n{{2singEN}}<br><br>\n\n{{Notes (en)}}\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "2sing", 
+                    "ord": 0, 
+                    "qfmt": "{{Word (tr)}}<br><br>\n\n{{Tense / Case (en)}}<br>\n2. person singular"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b>{{1plur}}</b><br>\n{{1plurEN}}<br><br>\n\n{{Notes (en)}}\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "1plur", 
+                    "ord": 1, 
+                    "qfmt": "{{Word (tr)}}<br><br>\n\n{{Tense / Case (en)}}<br>\n1. person plural"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b></b><br>\n{{2plurEN}}<br><br>\n\n{{Notes (en)}}\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "2plur", 
+                    "ord": 2, 
+                    "qfmt": "{{Word (tr)}}<br><br>\n\n{{Tense / Case (en)}}<br>\n2. person plural"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<b>{{2singEN}}</b><br><br>\n\n{{Tense / Case (en)}}<br>\n2. person singular<br>\nroot is <i>{{Word (tr)}}</i><br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "2singR", 
+                    "ord": 3, 
+                    "qfmt": "{{2sing}}<br><br>"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<b>{{1plurEN}}</b><br><br>\n\n {{Tense / Case (en)}}<br>\n1. person plural<br>\nroot is <i>{{Word (tr)}}</i><br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "1plurR", 
+                    "ord": 4, 
+                    "qfmt": "{{1plur}}<br><br>"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<b>{{2plurEN}}</b><br><br>\n\n {{Tense / Case (en)}}<br>\n2. person plural<br>\nroot is <i>{{Word (tr)}}</i><br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "2plurR", 
+                    "ord": 5, 
+                    "qfmt": "{{2plur}}<br><br>"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "d8eabf61-5aab-11e7-80fd-0024d7a9bf9c", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Word (tr)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Type (tr)", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Translation (en)", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Type (en)", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Notes (en)", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Translation (de)", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Type (de)", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Notes (de)", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Add Reverse", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "tr: Atomic Vocabulary", 
+            "req": [
+                [
+                    0, 
+                    "any", 
+                    [
+                        0, 
+                        1
+                    ]
+                ], 
+                [
+                    1, 
+                    "all", 
+                    [
+                        8
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [
+                "lang::tr::semantics::nouns"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<B>{{Translation (en)}}</B><br>\n{{Type (en)}}<br>\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "turk→", 
+                    "ord": 0, 
+                    "qfmt": "<b><i>{{Word (tr)}}</i></b><br>\n{{Type (tr)}}"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b><i>{{Word (tr)}}</i></b>\n<br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "→turk", 
+                    "ord": 1, 
+                    "qfmt": "{{#Add Reverse}}\n\n<b>{{Translation (en)}}</b><br>\n{{Type (en)}}\n\n{{/Add Reverse}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "d8ec1ef0-5aab-11e7-93df-0024d7a9bf9c", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Liberation Sans", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Liberation Sans", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "d8ec6d15-5aab-11e7-9a69-0024d7a9bf9c", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #FFFFFF; }\n.card2 { background-color: #FFFFFF; }", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Capital", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Small", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Name", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Example (en)", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Example (de)", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Audio", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "tr: Alphabet", 
+            "req": [
+                [
+                    0, 
+                    "any", 
+                    [
+                        0, 
+                        1
+                    ]
+                ], 
+                [
+                    1, 
+                    "all", 
+                    [
+                        5
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<br>\nName: {{Name}} <i></i><br>\n{{Example (en)}}<br>\n{{Audio}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Text -> Sound", 
+                    "ord": 0, 
+                    "qfmt": "{{Capital}}, {{Small}}<br>"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Capital}}, {{Small}}<br>\n<br>\nName: {{Name}} <i></i><br>\n{{Example (en)}}<br>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Sound -> Text", 
+                    "ord": 1, 
+                    "qfmt": "{{Audio}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "d8eabf5e-5aab-11e7-ad2e-0024d7a9bf9c", 
+            "css": "\t.card {\n font-family: arial;\n font-size: 16px;\n text-align: center;\n color: black;\n background-color: white;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Word (tr)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Tense / Case (tr)", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Translation (en)", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Tense / Case (en)", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Notes (en)", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Translation (de)", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Tense / Case (de)", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Notes (de)", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "1sing", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "1singEN", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "1singDE", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2sing", 
+                    "ord": 11, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2singEN", 
+                    "ord": 12, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2singDE", 
+                    "ord": 13, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "3sing", 
+                    "ord": 14, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "3singEN", 
+                    "ord": 15, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "3singDE", 
+                    "ord": 16, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "1plur", 
+                    "ord": 17, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "1plurEN", 
+                    "ord": 18, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "1plurDE", 
+                    "ord": 19, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2plur", 
+                    "ord": 20, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2plurEN", 
+                    "ord": 21, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "2plurDE", 
+                    "ord": 22, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "3plur", 
+                    "ord": 23, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "3plurEN", 
+                    "ord": 24, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "3plurDE", 
+                    "ord": 25, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "tr: Personal forms and conjugated verbs", 
+            "req": [
+                [
+                    0, 
+                    "any", 
+                    [
+                        0, 
+                        3
+                    ]
+                ], 
+                [
+                    1, 
+                    "any", 
+                    [
+                        0, 
+                        3
+                    ]
+                ], 
+                [
+                    2, 
+                    "any", 
+                    [
+                        0, 
+                        3
+                    ]
+                ], 
+                [
+                    3, 
+                    "any", 
+                    [
+                        0, 
+                        3
+                    ]
+                ], 
+                [
+                    4, 
+                    "any", 
+                    [
+                        0, 
+                        3
+                    ]
+                ], 
+                [
+                    5, 
+                    "any", 
+                    [
+                        0, 
+                        3
+                    ]
+                ], 
+                [
+                    6, 
+                    "all", 
+                    [
+                        8
+                    ]
+                ], 
+                [
+                    7, 
+                    "all", 
+                    [
+                        11
+                    ]
+                ], 
+                [
+                    8, 
+                    "all", 
+                    [
+                        14
+                    ]
+                ], 
+                [
+                    9, 
+                    "all", 
+                    [
+                        17
+                    ]
+                ], 
+                [
+                    10, 
+                    "all", 
+                    [
+                        20
+                    ]
+                ], 
+                [
+                    11, 
+                    "all", 
+                    [
+                        23
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [
+                "communication", 
+                "lang::tr::semantics::nouns"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b>{{1sing}}</b><br>\n{{1singEN}}<br><br>\n\n{{Notes (en)}}\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "1sing", 
+                    "ord": 0, 
+                    "qfmt": "<b>{{Word (tr)}}</b><br><br>\n\n{{Tense / Case (en)}}<br>\n1. person singular"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b>\n{{2sing}}\n</b><br>\n\n{{2singEN}}<br><br>\n\n{{Notes (en)}}\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "2sing", 
+                    "ord": 1, 
+                    "qfmt": "<b>{{Word (tr)}}</b><br><br>\n\n{{Tense / Case (en)}}<br>\n2. person singular"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b>{{3sing}}</b><br>\n{{3singEN}}<br><br>\n\n{{Notes (en)}}\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "3sing", 
+                    "ord": 2, 
+                    "qfmt": "<b>{{Word (tr)}}</b><br><br>\n\n{{Tense / Case (en)}}<br>\n3. person singular"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b>{{1plur}}</b><br>\n{{1plurEN}}<br><br>\n\n{{Notes (en)}}\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "1plur", 
+                    "ord": 3, 
+                    "qfmt": "<b>{{Word (tr)}}</b><br><br>\n\n{{Tense / Case (en)}}<br>\n1. person plural"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b>{{2plur}}</b><br>\n{{2plurEN}}<br><br>\n\n{{Notes (en)}}\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "2plur", 
+                    "ord": 4, 
+                    "qfmt": "<b>{{Word (tr)}}</b><br><br>\n\n{{Tense / Case (en)}}<br>\n2. person plural"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<b>{{3plur}}</b><br>\n{{3plurEN}}<br><br>\n\n{{Notes (en)}}\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "3plur", 
+                    "ord": 5, 
+                    "qfmt": "\n<b>{{Word (tr)}}</b><br><br>\n\n{{Tense / Case (en)}}<br>\n3. person plural"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<b>{{1singEN}}</b><br><br>\n\n {{Tense / Case (en)}}<br>\n1. person singular<br>\nroot is <i>{{Word (tr)}}</i><br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "1singR", 
+                    "ord": 6, 
+                    "qfmt": "<b>{{1sing}}</b><br><br>"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<b>{{2singEN}}</b><br><br>\n\n{{Tense / Case (en)}}<br>\n2. person singular<br>\nroot is <i>{{Word (tr)}}</i><br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "2singR", 
+                    "ord": 7, 
+                    "qfmt": "<b>{{2sing}}</b><br><br>"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<b>{{3singEN}}</b><br><br>\n\n {{Tense / Case (en)}}<br>\n3. person singular<br>\nroot is <i>{{Word (tr)}}</i><br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "3singR", 
+                    "ord": 8, 
+                    "qfmt": "<b>{{3sing}}</b><br><br>"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<b>{{1plurEN}}</b><br><br>\n\n {{Tense / Case (en)}}<br>\n1. person plural<br>\nroot is <i>{{Word (tr)}}</i><br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "1plurR", 
+                    "ord": 9, 
+                    "qfmt": "<b>{{1plur}}</b><br><br>"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<b>{{2plurEN}}</b><br><br>\n\n {{Tense / Case (en)}}<br>\n2. person plural<br>\nroot is <i>{{Word (tr)}}</i><br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "2plurR", 
+                    "ord": 10, 
+                    "qfmt": "<b>{{2plur}}</b><br><br>"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<b>{{1singEN}}</b><br><br>\n\n {{Tense / Case (en)}}<br>\n3. person plural<br>\nroot is <i>{{Word (tr)}}</i><br><br>\n\n{{Notes (en)}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "3plurR", 
+                    "ord": 11, 
+                    "qfmt": "<b>{{3plur}}</b><br><br>"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "d8ec1ef3-5aab-11e7-a6e2-0024d7a9bf9c", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Kind", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "a", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "ı", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "o", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "u", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "e", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "i", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "ö", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "ü", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 16, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[10pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "tr: Vowel harmonies", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    1, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    2, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    3, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    4, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    5, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    6, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    7, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n-{{a}}", 
+                    "bafmt": "", 
+                    "bfont": "Arial", 
+                    "bqfmt": "", 
+                    "bsize": 12, 
+                    "did": null, 
+                    "name": "a→", 
+                    "ord": 0, 
+                    "qfmt": "{{Kind}} vowel harmony, a"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n-{{ı}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "ı→", 
+                    "ord": 1, 
+                    "qfmt": "{{Kind}} vowel harmony, ı"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n-{{o}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "o→", 
+                    "ord": 2, 
+                    "qfmt": "{{Kind}} vowel harmony, o"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n-{{u}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "u→", 
+                    "ord": 3, 
+                    "qfmt": "{{Kind}} vowel harmony, u"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n-{{e}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "e→", 
+                    "ord": 4, 
+                    "qfmt": "{{Kind}} vowel harmony, e"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n-{{i}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "i→", 
+                    "ord": 5, 
+                    "qfmt": "{{Kind}} vowel harmony, i"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n-{{ö}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "ö→", 
+                    "ord": 6, 
+                    "qfmt": "{{Kind}} vowel harmony, ö"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n-{{ü}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "ü→", 
+                    "ord": 7, 
+                    "qfmt": "{{Kind}} vowel harmony, ü"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }
+    ], 
+    "notes": []
+}
